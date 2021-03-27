@@ -12,29 +12,9 @@
 I'm an **Undergrad Student🎓 [@IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/)** pursuing Information Technology.  I'm a **Tech Enthusiast 💻**, passionate about learning and working with new tech. I'm most comfortable in that weird, funky world between design and development—that's where the most fun, creative, boundary-breaking work happens.
 
 ### Current Focusing ▶️
-<img src="https://github.com/sejal8745/sejal8745/blob/main/coder.gif" width="50"> Competitive Coding <br/> <br/>
+<img src="https://github.com/sejal8745/sejal8745/blob/main/coder.gif" width="50"> Competitive Coding <br/> 
 <img src="https://github.com/sejal8745/sejal8745/blob/main/Development.gif" width="50"> Web Developement 
 <br> 
-## Pinned Repositories <img src="https://github.com/sejal8745/sejal8745/blob/main/pinned.gif" width="50"> 
-
-<br>
-
-<a href="https://github.com/sejal8745/ILLITRATE">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sejal8745&repo=ILLITRATE&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/sejal8745/Classroom">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sejal8745&repo=Classroom&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/sejal8745/SheHacks_Team-017">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sejal8745&repo=SheHacks_Team-017&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
 
 ## GitHub Stats <img src="https://github.com/sejal8745/sejal8745/blob/main/stats.gif" width="80">
 
@@ -71,6 +51,27 @@ I'm an **Undergrad Student🎓 [@IIITM Gwalior](https://www.iiitm.ac.in/index.ph
 
 <code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/Git.png"></code>
 <code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/gitHub.png"></code>
+<br>
+
+## Pinned Repositories <img src="https://github.com/sejal8745/sejal8745/blob/main/pinned.gif" width="50"> 
+
+<br>
+
+<a href="https://github.com/sejal8745/ILLITRATE">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sejal8745&repo=ILLITRATE&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/sejal8745/Classroom">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sejal8745&repo=Classroom&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/sejal8745/SheHacks_Team-017">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sejal8745&repo=SheHacks_Team-017&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
 <br>
 
 
