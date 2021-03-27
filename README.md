@@ -6,8 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sejal-goyal-437015194/)](https://www.linkedin.com/in/sejal-goyal-437015194/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-coral?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/__sejalgoyal_/)](https://www.instagram.com/__sejalgoyal_/)
 
-## A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <hr/>
-
+## A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 <br>
 
 I'm an **Undergrad Student🎓 [@IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/)** pursuing Information Technology.  I'm a **Tech Enthusiast 💻**, passionate about learning and working with new tech. I'm most comfortable in that weird, funky world between design and development—that's where the most fun, creative, boundary-breaking work happens.
@@ -15,10 +14,8 @@ I'm an **Undergrad Student🎓 [@IIITM Gwalior](https://www.iiitm.ac.in/index.ph
 ### Current Focusing ▶️
 <img src="https://github.com/sejal8745/sejal8745/blob/main/coder.gif" width="50"> Competitive Coding <br/> <br/>
 <img src="https://github.com/sejal8745/sejal8745/blob/main/Development.gif" width="50"> Web Developement 
-
 <br> 
-
-## Pinned Repositories <img src="https://github.com/sejal8745/sejal8745/blob/main/pinned.gif" width="50"> <hr/>
+## Pinned Repositories <img src="https://github.com/sejal8745/sejal8745/blob/main/pinned.gif" width="50"> 
 
 <br>
 
@@ -39,7 +36,7 @@ I'm an **Undergrad Student🎓 [@IIITM Gwalior](https://www.iiitm.ac.in/index.ph
 <br>
 <br>
 
-## GitHub Stats <img src="https://github.com/sejal8745/sejal8745/blob/main/stats.gif" width="80"> <hr/>
+## GitHub Stats <img src="https://github.com/sejal8745/sejal8745/blob/main/stats.gif" width="80">
 
 <br>
 <a href="https://github.com/sejal8745">
@@ -52,4 +49,29 @@ I'm an **Undergrad Student🎓 [@IIITM Gwalior](https://www.iiitm.ac.in/index.ph
 
 <br>
 <br>
+
+## Skills <img src="https://github.com/sejal8745/sejal8745/blob/main/skills.gif" width="50">
+
+<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/c-programming.png"></code>
+<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/cpp_logo.png"></code>
+<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/Python.png"></code>
+<br>
+
+<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/css.png"></code>
+<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/JavaScript-logo.png"></code>
+<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/bootstrap.png"></code>
+<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/nodejs.jpg"></code>
+<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/react.png"></code>
+<br>
+
+<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/photoshop.png"></code>
+<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/illustrator.png"></code>
+<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/Xd.png"></code>
+<br>
+
+<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/Git.png"></code>
+<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/gitHub.png"></code>
+<br>
+
+
 
