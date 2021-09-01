@@ -30,7 +30,7 @@ I'm an **Undergrad Student🎓 [@IIITM Gwalior](https://www.iiitm.ac.in/index.ph
 <br>
 <br>
 
-## Skills <img src="https://github.com/sejal8745/sejal8745/blob/main/skills.gif" width="50">
+## Tech Stacks <img src="https://github.com/sejal8745/sejal8745/blob/main/skills.gif" width="50">
 
 <code><img height="20" src="https://github.com/sejal8745/sejal8745/blob/main/c-programming.png"></code>
 <code><img height="20" src="https://github.com/sejal8745/sejal8745/blob/main/cpp_logo.png"></code>
@@ -67,6 +67,7 @@ I'm an **Undergrad Student🎓 [@IIITM Gwalior](https://www.iiitm.ac.in/index.ph
 
 <br>
 <br> -->
+
 
 
 
