@@ -19,9 +19,9 @@ I'm an **Undergrad Student🎓 [@IIITM Gwalior](https://www.iiitm.ac.in/index.ph
 ## GitHub Stats <img src="https://github.com/sejal8745/sejal8745/blob/main/stats.gif" width="80">
 
 <br>
-<a href="https://github.com/sejal8745">
+<!-- <a href="https://github.com/sejal8745">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejal8745&hide=SCSS, Less&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+</a> -->
 
 <a href="https://github.com/sejal8745">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sejal8745&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Sejal's GitHub Stats" />
@@ -32,23 +32,21 @@ I'm an **Undergrad Student🎓 [@IIITM Gwalior](https://www.iiitm.ac.in/index.ph
 
 ## Skills <img src="https://github.com/sejal8745/sejal8745/blob/main/skills.gif" width="50">
 
-<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/c-programming.png"></code>
-<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/cpp_logo.png"></code>
-<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/Python.png"></code>
-<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/css.png"></code>
-<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/JavaScript-logo.png"></code>
-<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/bootstrap.png"></code>
-<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/nodejs.jpg"></code>
-<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/react.png"></code>
-<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/Git.png"></code>
-<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/gitHub.png"></code>
+<code><img height="20" src="https://github.com/sejal8745/sejal8745/blob/main/c-programming.png"></code>
+<code><img height="20" src="https://github.com/sejal8745/sejal8745/blob/main/cpp_logo.png"></code>
+<code><img height="20" src="https://github.com/sejal8745/sejal8745/blob/main/Python.png"></code>
+<code><img height="20" src="https://github.com/sejal8745/sejal8745/blob/main/css.png"></code>
+<code><img height="20" src="https://github.com/sejal8745/sejal8745/blob/main/JavaScript-logo.png"></code>
+<code><img height="20" src="https://github.com/sejal8745/sejal8745/blob/main/bootstrap.png"></code>
+<code><img height="20" src="https://github.com/sejal8745/sejal8745/blob/main/nodejs.jpg"></code>
+<code><img height="20" src="https://github.com/sejal8745/sejal8745/blob/main/react.png"></code>
+<code><img height="20" src="https://github.com/sejal8745/sejal8745/blob/main/Git.png"></code>
+<code><img height="20" src="https://github.com/sejal8745/sejal8745/blob/main/gitHub.png"></code>
+<code><img height="20" src="https://github.com/sejal8745/sejal8745/blob/main/photoshop.png"></code>
+<code><img height="20" src="https://github.com/sejal8745/sejal8745/blob/main/illustrator.png"></code>
+<code><img height="20" src="https://github.com/sejal8745/sejal8745/blob/main/Xd.png"></code>
 <br>
-
-<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/photoshop.png"></code>
-<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/illustrator.png"></code>
-<code><img height="30" src="https://github.com/sejal8745/sejal8745/blob/main/Xd.png"></code>
-<br>
-
+<!-- 
 ## Pinned Repositories <img src="https://github.com/sejal8745/sejal8745/blob/main/pinned.gif" width="50"> 
 
 <br>
@@ -68,7 +66,7 @@ I'm an **Undergrad Student🎓 [@IIITM Gwalior](https://www.iiitm.ac.in/index.ph
 </a>
 
 <br>
-<br>
+<br> -->
 
 
 
